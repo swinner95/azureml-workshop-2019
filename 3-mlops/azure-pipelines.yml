@@ -7,7 +7,7 @@ trigger:
 - master
 
 variables: { 
-  mlWorkspaceConnection: aml-workspace-connection' ,
+  mlWorkspaceConnection: aml-ws-connection' ,
   mlWorkspaceName: 'shwinneworkshop',
   resourceGroupName: 'PipelinesUsabilityStudy'
   }
